@@ -24,6 +24,6 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/+qEEho66dZJ1kODRi"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/username"
+    OWNER = "https://t.me/i_only_am"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
