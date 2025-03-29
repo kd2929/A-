@@ -12,17 +12,17 @@ class Config(object):
     # Database ka naam
     DB_NAME = "MY_BOT_DB"
     # Text log channel ki ID
-    TXT_LOG = -10012234502065
+    TXT_LOG = --1002666187913
     # Authentication log channel ki ID
-    AUTH_LOG = -1002429764735
+    AUTH_LOG = -1002374484291
     # Hit log channel ki ID
-    HIT_LOG = -1002262405901
+    HIT_LOG = -1002601296408
     # DRM dump channel ki ID
-    DRM_DUMP = -1002349629748
+    DRM_DUMP = -1002605763264
     # Main channel ki ID
-    CHANNEL = -1002361507681
+    CHANNEL = -1002639459659
     # Channel ka link
-    CH_URL = "https://t.me/+qEEho66dZJ1kODRi"
+    CH_URL = "https://t.me/+NGfED8iLDKo5NjZl"
     # Bot ke owner ka Telegram link
     OWNER = "https://t.me/i_only_am"
     # Thumbnail image ka URL
