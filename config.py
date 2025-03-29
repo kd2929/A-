@@ -8,7 +8,7 @@ class Config(object):
     API_HASH = "87d0414dc159c10225cac921edde640a"
     ADMIN_ID = [6631452970]
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://username:password@dddd.octnw1p.mongodb.net/"
+    DB_URL = "mongodb+srv://ajbots51:O0Q1BC7PAX7oz9dk@cluster0.osppu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
     DB_NAME = "MY_BOT_DB"
     # Text log channel ki ID
