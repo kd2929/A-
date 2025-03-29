@@ -4,9 +4,9 @@ class Config(object):
     # Telegram Bot ka token
     BOT_TOKEN = "7271157719:AAGww10hwz4SOQRzhhj7A5eFAm3usarvXY4"
     # Telegram API ki ID
-    API_ID = 27030443
-    API_HASH = "da842bsdfijfhbeuf39edf0ac74b6e00c43c91"
-    ADMIN_ID = [7991495621]
+    API_ID = 10499690
+    API_HASH = "87d0414dc159c10225cac921edde640a"
+    ADMIN_ID = [6631452970]
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://username:password@dddd.octnw1p.mongodb.net/"
     # Database ka naam
